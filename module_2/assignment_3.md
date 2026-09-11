@@ -58,11 +58,11 @@ The leadership team has asked you to answer the following questions:
 Create a new tab titled “Functions”. Paste the questions above and answer them using the applicable spreadsheet functions - `COUNT`, `COUNTIF`, `SUM`, `SUMIF`, `MAX`, `MAXIF`, `AVERAGE`, `AVERAGEIF`.
 
 **Additional Questions:**
-- Question 1:
-- Question 2:
-- Question 3:
-- Question 4:
-- Question 5:
+- Question 1: Does education level affect if they are assigned a cohort 
+- Question 2: How does salary impact if they were assigned a cohort
+- Question 3: percmedian number of children et of leads assigned a cohort 
+- Question 4: median number of children 
+- Question 5: percent of single applicants 
 
 
 Videos: Fun with Functions - [Part 1](https://www.loom.com/share/0f9ae677ba4c49d7b5c70f498903cba7) | [Part 2](https://www.loom.com/share/9f9080b37c3e470cb32c5b54531f8211) | [Part 3](https://www.loom.com/share/93934778b2c84fc2a373d3ae26e9a1fa)
