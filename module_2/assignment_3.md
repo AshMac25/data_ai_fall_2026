@@ -47,7 +47,7 @@ The leadership team has asked you to answer the following questions:
 
 - [X] How many total applicants are there? 1,681 (after removing data after date 7/31/24)
 - [X] How many applicants were assigned a cohort? 545 applicants were assigned
-- [ ] What is the number of total children of all applicants?
+- [X] What is the number of total children of all applicants? 3,884 Children
 - [ ] What percentage of applicants are veterans?
 - [ ] What percentage of applicants identify as LGBTQ+?
 - [ ] What percentage of applicants do not have laptops?
