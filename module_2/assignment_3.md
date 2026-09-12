@@ -53,7 +53,7 @@ The leadership team has asked you to answer the following questions:
 - [ ] What percentage of applicants do not have laptops?
 - [ ] What is the most number of children of any applicant?
 - [ ] What is the average number of children among all applicants?
-- [ ] What is the average number of children of applicants that were assigned a cohort?
+- [X] What is the average number of children of applicants that were assigned a cohort? 2.3
 
 Create a new tab titled “Functions”. Paste the questions above and answer them using the applicable spreadsheet functions - `COUNT`, `COUNTIF`, `SUM`, `SUMIF`, `MAX`, `MAXIF`, `AVERAGE`, `AVERAGEIF`.
 
