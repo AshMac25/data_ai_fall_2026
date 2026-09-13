@@ -45,15 +45,15 @@ Video: [Clean the Data](https://www.loom.com/share/cab3f42f344a4b00a13d52e8bd892
 
 The leadership team has asked you to answer the following questions:
 
-- [X] How many total applicants are there? 1,681 (after removing data after date 7/31/24)
-- [X] How many applicants were assigned a cohort? 545 applicants were assigned
-- [X] What is the number of total children of all applicants? 3,884 Children
-- [ ] What percentage of applicants are veterans?
-- [ ] What percentage of applicants identify as LGBTQ+?
-- [ ] What percentage of applicants do not have laptops?
-- [ ] What is the most number of children of any applicant?
-- [ ] What is the average number of children among all applicants?
-- [X] What is the average number of children of applicants that were assigned a cohort? 2.3
+- [X] How many total applicants are there? 
+- [X] How many applicants were assigned a cohort? 
+- [X] What is the number of total children of all applicants?
+- [X] What percentage of applicants are veterans?
+- [X] What percentage of applicants identify as LGBTQ+?
+- [X] What percentage of applicants do not have laptops?
+- [X] What is the most number of children of any applicant?
+- [X] What is the average number of children among all applicants?
+- [X] What is the average number of children of applicants that were assigned a cohort? 
 
 Create a new tab titled “Functions”. Paste the questions above and answer them using the applicable spreadsheet functions - `COUNT`, `COUNTIF`, `SUM`, `SUMIF`, `MAX`, `MAXIF`, `AVERAGE`, `AVERAGEIF`.
 
