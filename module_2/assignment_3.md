@@ -83,10 +83,14 @@ Functions work great for specific calculations while pivot tables are best for s
 
 - [ ] Create Calculated Fields to quickly see the percentage of the total for the pivot table data.
 
+Videos: Fun with Pivot Tables - [Part 1](https://www.loom.com/share/fa91b25c236747698de2fccb44779deb) | [Part 2](https://www.loom.com/share/ae613a0927424e8cab5a174537bd440b) 
+
 ### Step Five: Create Charts & Build a Dashboard
 
 - [X] Review the Annual Report again and make a list of what was reported last year that you will need to report on this year.
 - [ ] Add another tab “Dashboard” and copy & paste the charts you have made in the Dashboard tab.
+
+Videos: [Create a Scorecard](https://www.loom.com/share/8d630ef049494b209de63a2e36a42e78)
 
 ### Step Six: Make it Aesthetic
 
@@ -99,5 +103,5 @@ Functions work great for specific calculations while pivot tables are best for s
 
 ### Last Step: Ship it!
 
-- [ ] Drop a screenshot of the dashboard, along with a URL link and 3 bullet points of insights into this discussion thread: 
+- [ ] Drop a screenshot of the dashboard, along with a URL link and 3 bullet points of insights into this discussion thread: https://github.com/Tech-Moms/data_ai_fall_2026/discussions/17
 - [ ] Do a little happy dance - you’re crushing it!
