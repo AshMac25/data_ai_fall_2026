@@ -1,6 +1,6 @@
 # Data Storytelling Assignment: Dashboard Makeover
 
-_Due: Saturday October 10th· Estimated time to complete: 4 hours_
+_Due: Saturday October 10th· Estimated time to complete: 3 hours_
 
 ## Overview
 
