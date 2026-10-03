@@ -27,7 +27,7 @@ In the second part, students will learn the fundamentals of data storytelling: h
 
 ## Part 1: Google Looker Data Studio
 
-### Video Lessons - Complete by class Wednesday
+### Video Lessons - Complete by class Wednesday, October 7th
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
@@ -53,7 +53,7 @@ _Estimated total time to complete: 4 hours_
 
 ## Part 2: Storytelling with Data
 
-### Video Lessons - Complete by Saturday
+### Video Lessons - Complete by class Saturday, October 10th
 
 _Estimated time to complete: 1.5 hours_
 
@@ -71,9 +71,8 @@ _Estimated time to complete: 30 minutes_
 - [ ] Read Kelsey's blog post - [Mothers in the Workforce](https://kelseyataylor.github.io/kelsey-taylor-portfolio/mothers-in-the-workforce.html)
 - [ ] Read through this resource: [Storytelling with Data Makeovers](https://www.storytellingwithdata.com/makeovers)
 
-### Assignment - Complete by Saturday
+### Assignment - Complete by class Saturday, October 10th
 
-_Estimated time to complete: 8 hours_
+_Estimated time to complete: 3 hours_
 
-- [ ] Complete the Data Storytelling Assignment: "makeover" a dashboard you have already made into a "data story." Do this by adding charts to a slide deck to display as a presentation, OR do it directly in Looker by adding each insight/visualization to a new page.
-- [ ] When complete, drop your link into [this discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/44) thread.
+- [ ] Complete the [Data Storytelling Assignment](https://github.com/Tech-Moms/data_ai_fall_2026/blob/main/module_5/assignment.md)
