@@ -35,8 +35,8 @@ _Watch the videos below, edit the markdown file with an x in the checkbox when c
 
 _Estimated total time to complete: 1 hour_
 
-- [x ] Watch [this](https://youtu.be/AaiPFcBDgtk?si=e9VhNCEiZauixPNh&t=1) video and mark when complete
-- [x] Follow along in [Google Looker Data Studio](https://lookerstudio.google.com/) to create your first Looker Dashboard
+- [ ] Watch [this](https://youtu.be/AaiPFcBDgtk?si=e9VhNCEiZauixPNh&t=1) video and mark when complete
+- [ ] Follow along in [Google Looker Data Studio](https://lookerstudio.google.com/) to create your first Looker Dashboard
 
 ---
 
@@ -59,7 +59,7 @@ _Estimated time to complete: 1.5 hours_
 
 - [ ] Watch video [Best Stats You've Ever Seen](https://www.youtube.com/watch?v=hVimVzgtD6w)
 - [ ] Watch video [How to Turn Data into Stories](https://www.youtube.com/watch?v=Hfx1X9WSGYQ&pp=ygUbZGF0YSBzdG9yeXRlbGxpbmcgdGVkIHRhbGsg)
-- [x ] Watch Kelsey's video - [Mothers in the Workforce](https://www.youtube.com/watch?v=llddQPmYU40)
+- [ ] Watch Kelsey's video - [Mothers in the Workforce](https://www.youtube.com/watch?v=llddQPmYU40)
 
 ### Additional Resources
 
